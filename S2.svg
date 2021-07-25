@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="86"
+   height="86"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="S2.svg"
+   inkscape:export-filename="/home/toliz/Desktop/harbour-barcode.png"
+   inkscape:export-xdpi="120.55814"
+   inkscape:export-ydpi="120.55814"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="10.174419"
+     inkscape:cx="30.026285"
+     inkscape:cy="43.049141"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1115"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     width="86px"
+     inkscape:snap-grids="false"
+     showguides="true"
+     inkscape:document-rotation="0"
+     inkscape:object-nodes="false"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene"
+     style="display:inline"
+     transform="translate(0,-4)">
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1"
+       id="path4157"
+       d="M 43.000501,89.7 C 19.417218,89.7 0.29999848,70.582 0.29999848,47.000001 c 0,-0.408 0,-41.2770012 0,-41.2770012 0,-0.786 0.63701,-1.423 1.42302002,-1.423 H 84.276991 c 0.78601,0 1.42301,0.637 1.42301,1.423 0,0 0,40.9080012 0,41.2770012 0.001,23.582 -19.11622,42.699999 -42.6995,42.699999 z"
+       inkscape:connector-curvature="0" />
+    <g
+       style="display:none"
+       id="Layer_2"
+       display="none"
+       transform="translate(93.624831,4.1784118)" />
+  </g>
+</svg>
